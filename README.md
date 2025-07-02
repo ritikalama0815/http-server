@@ -28,7 +28,7 @@ This is a basic HTTP server written in Java using core libraries like `ServerSoc
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 1. **Compile the server:**
 
